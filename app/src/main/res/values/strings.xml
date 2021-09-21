@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tip Split Calculator:</string>
+    <string name="bTotal">Bill Total With Tax:</string>
+    <string name="bTotalHint">Enter Total</string>
+    <string name="nPeople">Number Of People:</string>
+    <string name="nPeopleHint">#</string>
+    <string name="tAmount">Tip Amount:</string>
+    <string name="twTip">Total With Tip:</string>
+    <string name="tpPerson">Total Per Person:</string>
+    <string name="overage">Overage:</string>
+    <string name="amountDefault">$0.00</string>
+    <string name="cButton">Clear:</string>
+    <string name="gButton">Go</string>
+    <string name="tPercent">Tip Percent:</string>
+    <string name="rButton1">12%</string>
+    <string name="rButton2">15%</string>
+    <string name="rButton3">18%</string>
+    <string name="rButton4">20%</string>
+</resources>
